@@ -7,5 +7,6 @@ function here(){
     //     console.log("The file is updated with the given data")
     // } 
     // })
-    document.getElementById("hello").innerHTML = "I'm here now";
+    // document.getElementById("hello").innerHTML = "I'm here now";
+    console.log('test');
 }
